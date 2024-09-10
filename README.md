@@ -29,6 +29,18 @@ Here is a list of the primary packages used in this project:
 - **[logger: ^2.4.0](https://pub.dev/packages/logger)**: For logging.
 - **[flutter_screenutil: ^5.9.3](https://pub.dev/packages/flutter_screenutil)**: For responsive UI design.
 
+## Images
+
+Here are some screenshots of the application to give you a better understanding of its features and layout:
+
+### Product Detail Page & Variant Selection
+![Screenshot_1725946507](https://github.com/user-attachments/assets/0ad72529-9828-48f0-a1de-c94afaa670e0)
+
+### Message Seller Option
+![Screenshot_1725946531](https://github.com/user-attachments/assets/ae998348-8592-4b1b-a14d-abf4217e4719)
+
+
+
 ## Project Structure
 
 The project is organized into the following main directories:
