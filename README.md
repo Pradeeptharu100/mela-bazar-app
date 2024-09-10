@@ -49,7 +49,7 @@ To get started with this project, follow these steps:
    git clone https://github.com/Pradeeptharu100/mela-bazar-app.git
    cd mela-bazar-app
    ```
-## Concerns
+## Conclusion
 
 While working on the project, I encountered some challenges with integrating the variant details, especially when it comes to user selection of options like RAM or other specifications. I found this part confusing and wasn't entirely sure how to implement the functionality correctly. As a result, this section may not be fully integrated or might require further adjustments. If you have any suggestions or improvements, your contributions would be greatly appreciated.
    
