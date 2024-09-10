@@ -41,8 +41,8 @@ class MyApp extends StatelessWidget {
           designSize: ScreenUtil.defaultSize,
           builder: (context, child) => MaterialApp(
             debugShowCheckedModeBanner: false,
-            home: ProductDetailPage(),
-            title: 'Product Detail App',
+            home: ProductDetailScreen(),
+            title: 'Mela Bazar App',
             theme: hiveProvider.isDarkMode
                 ? appTheme.darkTheme()
                 : appTheme.lightTheme(),
