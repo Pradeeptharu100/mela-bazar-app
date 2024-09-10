@@ -29,6 +29,18 @@ Here is a list of the primary packages used in this project:
 - **[logger: ^2.4.0](https://pub.dev/packages/logger)**: For logging.
 - **[flutter_screenutil: ^5.9.3](https://pub.dev/packages/flutter_screenutil)**: For responsive UI design.
 
+## Images
+
+Here are some screenshots of the application to give you a better understanding of its features and layout:
+
+### Product Detail Page & Variant Selection
+![Screenshot_1725946507](https://github.com/user-attachments/assets/0ad72529-9828-48f0-a1de-c94afaa670e0)
+
+### Message Seller Option
+![Screenshot_1725946531](https://github.com/user-attachments/assets/ae998348-8592-4b1b-a14d-abf4217e4719)
+
+
+
 ## Project Structure
 
 The project is organized into the following main directories:
@@ -37,8 +49,8 @@ The project is organized into the following main directories:
   - **models**: Contains the data models.
   - **providers**: Contains the state management logic using Provider.
   - **services**: Contains the service classes for API calls and local storage.
-  - **views**: Contains the UI components and screens.
-  - **widgets**: Contains reusable UI components.
+  - **Screens**: Contains the UI components and screens.
+  - **Components**: Contains reusable UI components.
 
 ## Getting Started
 
@@ -49,3 +61,8 @@ To get started with this project, follow these steps:
    git clone https://github.com/Pradeeptharu100/mela-bazar-app.git
    cd mela-bazar-app
    ```
+## Conclusion
+
+While working on the project, I encountered some challenges with integrating the variant details, especially when it comes to user selection of options like RAM or other specifications. I found this part confusing and wasn't entirely sure how to implement the functionality correctly. As a result, this section may not be fully integrated or might require further adjustments. If you have any suggestions or improvements, your contributions would be greatly appreciated.
+   
+   
