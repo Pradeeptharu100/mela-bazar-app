@@ -37,8 +37,8 @@ The project is organized into the following main directories:
   - **models**: Contains the data models.
   - **providers**: Contains the state management logic using Provider.
   - **services**: Contains the service classes for API calls and local storage.
-  - **views**: Contains the UI components and screens.
-  - **widgets**: Contains reusable UI components.
+  - **Screens**: Contains the UI components and screens.
+  - **Components**: Contains reusable UI components.
 
 ## Getting Started
 
